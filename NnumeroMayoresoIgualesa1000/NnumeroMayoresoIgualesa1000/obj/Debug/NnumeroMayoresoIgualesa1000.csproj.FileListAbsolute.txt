@@ -1,0 +1,6 @@
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\bin\Debug\NnumeroMayoresoIgualesa1000.exe.config
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\bin\Debug\NnumeroMayoresoIgualesa1000.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\bin\Debug\NnumeroMayoresoIgualesa1000.pdb
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\obj\Debug\NnumeroMayoresoIgualesa1000.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\obj\Debug\NnumeroMayoresoIgualesa1000.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NnumeroMayoresoIgualesa1000\NnumeroMayoresoIgualesa1000\obj\Debug\NnumeroMayoresoIgualesa1000.pdb

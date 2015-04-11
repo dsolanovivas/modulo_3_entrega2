@@ -1,0 +1,5 @@
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NumerosHasta9999DoWhile\NumerosHasta9999DoWhile\bin\Debug\NumerosHasta9999DoWhile.exe.config
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NumerosHasta9999DoWhile\NumerosHasta9999DoWhile\bin\Debug\NumerosHasta9999DoWhile.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NumerosHasta9999DoWhile\NumerosHasta9999DoWhile\bin\Debug\NumerosHasta9999DoWhile.pdb
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NumerosHasta9999DoWhile\NumerosHasta9999DoWhile\obj\Debug\NumerosHasta9999DoWhile.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\NumerosHasta9999DoWhile\NumerosHasta9999DoWhile\obj\Debug\NumerosHasta9999DoWhile.pdb

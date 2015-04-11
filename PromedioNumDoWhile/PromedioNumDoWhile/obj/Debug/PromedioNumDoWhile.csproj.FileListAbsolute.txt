@@ -1,0 +1,6 @@
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\bin\Debug\PromedioNumDoWhile.exe.config
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\bin\Debug\PromedioNumDoWhile.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\bin\Debug\PromedioNumDoWhile.pdb
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\obj\Debug\PromedioNumDoWhile.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\obj\Debug\PromedioNumDoWhile.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\PromedioNumDoWhile\PromedioNumDoWhile\obj\Debug\PromedioNumDoWhile.pdb

@@ -1,0 +1,6 @@
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\bin\Debug\foreachVectorMayor100.exe.config
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\obj\Debug\foreachVectorMayor100.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\bin\Debug\foreachVectorMayor100.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\bin\Debug\foreachVectorMayor100.pdb
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\obj\Debug\foreachVectorMayor100.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\foreachVectorMayor100\foreachVectorMayor100\obj\Debug\foreachVectorMayor100.pdb

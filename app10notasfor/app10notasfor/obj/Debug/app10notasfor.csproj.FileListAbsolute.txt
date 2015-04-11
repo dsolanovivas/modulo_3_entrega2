@@ -1,0 +1,6 @@
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\bin\Debug\app10notasfor.exe.config
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\bin\Debug\app10notasfor.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\bin\Debug\app10notasfor.pdb
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\obj\Debug\app10notasfor.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\obj\Debug\app10notasfor.exe
+c:\users\lab104bpc11\documents\visual studio 2012\Projects\app10notasfor\app10notasfor\obj\Debug\app10notasfor.pdb
